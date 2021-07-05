@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://prakhar896.github.io](https://prakhar896.github.io)
 
-- ⚡ Fun fact **I am super dumb and do hilarious you're not supposed to do with code...**
+- ⚡ Fun fact **I am super dumb and do hilarious things you're not supposed to do with code...**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
