@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [OneStop](https://github.com/Prakhar896/OneStop)
 
-- 🌱 I’m currently learning **JavaScript, Discord Developer API,**
+- 🌱 I’m currently learning **JavaScript, Discord Developer API, Python Web Development**
 
 - 👨‍💻 All of my projects are available at [github.com/Prakhar896](https://github.com/Prakhar896)
 
-- 💬 Ask me about **Swift, JavaScript, iOS App Development**
+- 💬 Ask me about **Swift, JavaScript, iOS App Development, Python & Web Development**
 
 - 📫 How to reach me **prakh0706@outlook.com**
 
 - 📄 Know about my experiences [My Website](https://prakhar896.github.io)
 
-- ⚡ Fun fact **I am super dumb and do hilarious you're not supposed to do with code...**
+- ⚡ Fun fact **I love to do hilarious things you're not supposed to do with code...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
