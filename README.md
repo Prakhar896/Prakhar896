@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Swift, JavaScript, iOS App Development, Python & Web Development**
 
-- 📫 How to reach me **prakh0706@outlook.com**
+- 📫 How to reach me **prakhar@prakhartrivedi.works**
 
 - 📄 Know about my experiences [My Website](https://prakhar896.github.io)
 
