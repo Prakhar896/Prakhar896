@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar896&label=Profile%20views&color=ffa200&style=flat" alt="prakhar896" /> </p>
 
-- 🔭 I’m currently working on [Access](https://github.com/Prakhar896/Access)
+- 🔭 I’m currently working on completing the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course, the [Foundations in AI by AISG](https://learn.aisingapore.org/courses/ai-for-industry-part-2/) course and the [AWS CCP](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam
 
-- 🌱 I’m currently learning **JavaScript, Discord Developer API, Python Web Development**
+- 🌱 I’m currently learning **SwiftUI, Next.js, React.js, In-depth Cloud Computing with AWS**
 
 - 👨‍💻 All of my projects are available at [github.com/Prakhar896](https://github.com/Prakhar896)
 
-- 💬 Ask me about **Swift, JavaScript, iOS App Development, Python & Web Development**
+- 💬 Ask me about **iOS App Development, Python (especially automation and data science), Web Development, Cloud**
 
 - 📫 How to reach me **prakhar@prakhartrivedi.works**
 
 - 📄 Know about my experiences [My Website](https://prakhar896.github.io)
 
-- ⚡ Fun fact **I love to do hilarious things you're not supposed to do with code...**
+- Also, **I love to do hilarious things you're not supposed to do with code;** my GitHub is basically a dumping ground for all sorts of wild projects that I made for fun!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/prakhar896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prakhar896" height="30" width="40" /></a>
 <a href="https://twitter.com/prakhar11675205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prakhar11675205" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prakhar trivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakhar trivedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakhartrivedi0706/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakhar trivedi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11819842" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11819842" height="30" width="40" /></a>
 <a href="https://medium.com/@prakhar0706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prakhar0706" height="30" width="40" /></a>
 </p>
