@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar896&label=Profile%20views&color=ffa200&style=flat" alt="prakhar896" /> </p>
 
-- 🔭 I’m currently working on completing the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course, the [Foundations in AI by AISG](https://learn.aisingapore.org/courses/ai-for-industry-part-2/) course and the [AWS CCP](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam
+- 🔭 I’m currently working on completing the [Foundations in AI by AISG](https://learn.aisingapore.org/courses/ai-for-industry-part-2/) course.
 
 - 🌱 I’m currently learning **SwiftUI, Next.js, React.js, In-depth Cloud Computing with AWS**
 
